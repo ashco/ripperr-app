@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ripperr-dev-142009-authRole",
+      "UnauthRoleArn": "arn:aws:iam::105465043081:role/amplify-ripperr-dev-142009-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::105465043081:role/amplify-ripperr-dev-142009-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-ripperr-dev-142009-deployment",
+      "UnauthRoleName": "amplify-ripperr-dev-142009-unauthRole",
+      "StackName": "amplify-ripperr-dev-142009",
+      "StackId": "arn:aws:cloudformation:us-west-2:105465043081:stack/amplify-ripperr-dev-142009/334ae350-417f-11eb-be80-06a3bf73a173",
+      "AmplifyAppId": "d218ftcwcgbfhz"
+    },
+    "categories": {
+      "auth": {
+        "ripperr06639755": {}
+      }
+    }
+  }
+}
